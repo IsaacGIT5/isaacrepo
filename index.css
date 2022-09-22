@@ -1,0 +1,226 @@
+@font-face {
+    font-family: Maven-Pro;
+    src: url("/fonts/Maven%20Pro.ttf");
+}
+
+::selection {
+    background-color: #4285f4;
+    color: #ffffff;
+}
+
+::-moz-selection {
+    background-color: #4285f4;
+    color: #ffffff;
+}
+
+body {
+    background-color: #ffffff;
+    color: #414141;
+}
+
+a {
+    color: #4285f4;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.header {
+    color: #4285f4;
+    font-size: 72pt;
+    font-weight: bolder;
+    line-height: 119%;
+    top: 300%;
+    box-shadow: 0 0 5em rgba(0, 0, 0, .1);
+    transition: box-shadow .3s;
+}
+
+#splashScreen {
+    position: absolute;
+    z-index: 1;
+    left: 283px;
+    top: 347px;
+    width: 585px;
+    height: 155px;
+}
+
+.fade-in {
+  animation: fadeIn ease 5s;
+  -webkit-animation: fadeIn ease 5s;
+  -moz-animation: fadeIn ease 5s;
+  -o-animation: fadeIn ease 5s;
+  -ms-animation: fadeIn ease 5s;
+}
+
+.fade-out {
+  animation: fadeOut ease 10s;
+  -webkit-animation: fadeOut ease 10s;
+  -moz-animation: fadeOut ease 10s;
+  -o-animation: fadeOut ease 10s;
+  -ms-animation: fadeOut ease 10s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+@-moz-keyframes fadeOut {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+@-webkit-keyframes fadeOut {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+@-o-keyframes fadeOut {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+@-ms-keyframes fadeOut {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+td {
+    vertical-align: top;
+    height: 155;
+    width: 585;
+}
+
+table {
+    cellpadding: 0;
+    cellspacing: 0;
+}
+
+a:hover {
+    color: #212121;
+}
+
+* {
+    font-family: Maven-Pro;
+}
+
+.footer {
+    color: #212121;
+    font-size: 13pt;
+    font-weight: lighter;
+    line-height: 119%;
+    top: 300%;
+    box-shadow: 0 0 5em rgba(0, 0, 0, .1);
+    transition: box-shadow .3s;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 10px;
+    font-size: 20px;
+    font-weight: normal;
+    float: right;
+    background-color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 50px;
+    box-shadow: 0 0 5em rgba(0, 0, 0, .1);
+    transition: box-shadow .3s;
+}
+
+li:hover {
+  transition: box-shadow .3s;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
+}
+
+.header:hover, .footer:hover {
+  transition: text-shadow .3s;
+    text-shadow: 1rem 1rem rgba(0, 0, 0, .175);
+}
+
+::-webkit-scrollbar {
+	width: 13px;
+}
+
+::-webkit-scrollbar-track {
+	background-color: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+	border: none;
+	background-color: #4285f4;
+	border-radius: 0.5em;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background-color: #3a76d8;
+}
