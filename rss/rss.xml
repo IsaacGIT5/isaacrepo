@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>
+			<![CDATA[Melvin Jones Repol]]>
+		</title>
+		<description>
+			<![CDATA[I'm a Software Engineer with experience in Web Development, SEO, Data Analyst and Computer Troubleshooting. Studied Computer System Servicing in Senior High School, currently studying Information Technology at a College School.]]>
+		</description>
+		<link>
+			https://mrepol742.github.io/
+		</link>
+		<image>
+			<url>
+				https://mrepol742.github.io/favicon.png
+			</url>
+			<title>
+				Melvin Jones Repol
+			</title>
+			<link>
+				https://mrepol742.github.io/
+			</link>
+		</image>
+		<generator>
+			RSS for Melvin Jones Repol
+		</generator>
+		<lastBuildDate>
+			Thu, 24 Mar 2022 18:47:14 GMT
+		</lastBuildDate>
+		<link href="https://mrepol742.github.io/rss/rss.xml" rel="self" type="application/rss+xml" />
+		<language>
+			<![CDATA[en]]>
+		</language>
+		<item>
+			<title>
+				<![CDATA[Download Webvium - Lightweight, Fast, Material and Full-Featured Android Web Browser.]]>
+			</title>
+			<description>
+				<![CDATA[<div><img src="https://mrepol742.github.io/images/webvium22.png" style="width: 100%;"><div>A Project that aims to be the lightest, fastest, secured, private and full-featured android web browser. Programmed and design from Scratch.</div></div>]]>
+			</description>
+			<link>
+				https://mrepol742.github.io/webvium/
+			</link>
+			<guid isPermaLink="false">
+				e9c92294e9372eb803ce8130fbd75f98
+			</guid>
+			<creator>
+				<![CDATA[Download Webvium - Lightweight, Fast, Material and Full-Featured Android Web Browser.]]>
+			</creator>
+			<content medium="image" url="https://mrepol742.github.io/images/webvium22.png" />
+		</item>
+		<item>
+			<title>
+				<![CDATA[Download Webvium Dev - Lightweight, Fast, Material and Full-Featured Android Web Browser.]]>
+			</title>
+			<description>
+				<![CDATA[<div><img src="https://mrepol742.github.io/images/webviumdev.png" style="width: 100%;"><div>A Project that aims to be the lightest, fastest, secured, private and full-featured android web browser. Programmed and design from Scratch.</div></div>]]>
+			</description>
+			<link>
+				https://mrepol742.github.io/webviumdev/
+			</link>
+			<guid isPermaLink="false">
+				352d41a2c0b85112bb7c4e9658681914
+			</guid>
+			<creator>
+				<![CDATA[Download Webvium Dev - Lightweight, Fast, Material and Full-Featured Android Web Browser.]]>
+			</creator>
+			<content medium="image" url="https://mrepol742.github.io/images/webviumdev.png" />
+		</item>
+		<item>
+			<title>
+				<![CDATA[Download Webvium VPN - Anonymous, Secured, Private and the fastest Virtual Private Network.]]>
+			</title>
+			<description>
+				<![CDATA[<div><img src="https://mrepol742.github.io/images/webviumvpn.png" style="width: 100%;"><div>Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.</div></div>]]>
+			</description>
+			<link>
+				https://mrepol742.github.io/webviumvpn/
+			</link>
+			<guid isPermaLink="false">
+				4f8d805859ece2444914e2da1e8fc3b3
+			</guid>
+			<creator>
+				<![CDATA[Download Webvium VPN - Anonymous, Secured, Private and the fastest Virtual Private Network.]]>
+			</creator>
+			<content medium="image" url="https://mrepol742.github.io/images/webviumvpn.png" />
+		</item>
+	</channel>
+</rss>
